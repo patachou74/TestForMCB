@@ -1,0 +1,4 @@
+execute BMC_IMPORT.P3_IMPORT
+
+
+
